@@ -1,0 +1,13 @@
+.success-projects {
+  margin-top: 20px;
+}
+
+.success-projects:before {
+  background: #fff;
+  content: "";
+  height: 20%;
+  position: absolute;
+  transform: skewY(-4deg);
+  top: -50px;
+  width: 100%;
+}
